@@ -19,3 +19,9 @@
 [submodule "refs/mongodb/node-mongodb-native"]
 	path = refs/mongodb/node-mongodb-native
 	url = https://github.com/mongodb/node-mongodb-native.git
+[submodule "refs/Yonaba/30log"]
+	path = refs/Yonaba/30log
+	url = git://github.com/Yonaba/30log.git
+[submodule "refs/leafo/moonscript"]
+	path = refs/leafo/moonscript
+	url = https://github.com/leafo/moonscript.git
