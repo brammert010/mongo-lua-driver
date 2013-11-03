@@ -1,0 +1,21 @@
+[submodule "refs/moai/luamongo"]
+	path = refs/moai/luamongo
+	url = https://github.com/moai/luamongo.git
+[submodule "refs/mongodb/mongo-c-driver"]
+	path = refs/mongodb/mongo-c-driver
+	url = https://github.com/mongodb/mongo-c-driver.git
+[submodule "refs/PocoGraph/lua_mongodb_driver"]
+	path = refs/PocoGraph/lua_mongodb_driver
+	url = https://github.com/PocoGraph/lua_mongodb_driver.git
+[submodule "refs/cloudwu/lua-bson"]
+	path = refs/cloudwu/lua-bson
+	url = https://github.com/cloudwu/lua-bson.git
+[submodule "refs/cloudwu/lua-mongo"]
+	path = refs/cloudwu/lua-mongo
+	url = https://github.com/cloudwu/lua-mongo.git
+[submodule "refs/mongodb/mongo-ruby-driver"]
+	path = refs/mongodb/mongo-ruby-driver
+	url = https://github.com/mongodb/mongo-ruby-driver.git
+[submodule "refs/mongodb/node-mongodb-native"]
+	path = refs/mongodb/node-mongodb-native
+	url = https://github.com/mongodb/node-mongodb-native.git
